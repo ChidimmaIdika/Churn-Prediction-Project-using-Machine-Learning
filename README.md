@@ -45,7 +45,7 @@ Now that I have a clear understanding of the data and feature importance, I move
 ## Conclusion
 This project illustrates how data-driven analysis and predictive modeling can be applied to address real-world challenges, such as customer churn. By identifying key features and building a logistic regression model, I can help the company make more informed decisions to retain customers and optimize business operations.
 
-> For more details, you can view my code and documentation process here... [Customer Churn Prediction Project]():   
+> For more details, you can view my code and documentation process here... [Customer Churn Prediction Project](https://github.com/ChidimmaIdika/Churn-Prediction-Project-using-Machine-Learning.git):   
 
 I hope you found this project walkthrough insightful and informative.    
 Feel free to reach out if you have any questions or suggestions for improvement!
